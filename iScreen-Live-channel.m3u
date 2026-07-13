@@ -6,3 +6,6 @@ https://livecdn.rockstreamer.com/live/moviebanglatv/playlist.m3u8|Referer=https:
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png", Rajdhani TV
 https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png", Rajdhani TV
+4 Direct,,http://193.47.62.47/hls/yyyyCZckkkqq.m3u8|Referer=http://www.fawanews.sc/,)2 Direct,,http://193.47.62.55/hls/RHTRJTR.m3u8|Referer=http://www.fawanews.sc/,)BGIN Sports,,http://193.47.62.59/hls/yyyyCZckkkq.m3u8|Referer=http://www.fawanews.sc/,)EN Vivo,,http://193.47.62.59/hls/yyyyCZckkkqqq.m3u8|Referer=http://www.fawanews.sc/,)
